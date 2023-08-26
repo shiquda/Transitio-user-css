@@ -1,5 +1,5 @@
 /* 使用宋体字体 */
-body, p, span, div, h1, h2, h3, h4, h5, h6 {
+* {
     font-family: "SimSun", sans-serif !important;
 }
 /* 如果想使用其他字体直接把 font-family 的名字改一下就好了，前提是设备已经安装对应字体 */
